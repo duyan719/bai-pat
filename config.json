@@ -1,0 +1,132 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Duy-An-Bot",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100044728309180",
+        "100023968606595",
+        "100072325381904"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.9",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": false,
+        "delayUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": false,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": false,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": "TEST2208"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "spot2mp3": {
+        "APIKEY": "4f545fa52f4a5f13a2r1e3r211g3f"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "teach": {
+        "APIKEY": "MEWc3VuOTQzO3RoaWVubGUwOTA0QGdtYWlsLmN"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "log": {
+        "enable": true
+    }
+}
