@@ -58,7 +58,7 @@ users.needObject=Phải là một Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=handleCommand.userBanned=Hiện tại bạn đang bị Admin cấm sử dụng bot!\n%2\n%1\n\nLiên hệ Admin để biết thêm chi tiết :\nhttps://www.facebook.com/profile.php?id=100072642465193
+handleCommand.userBanned=Hiện tại bạn đang bị Admin cấm sử dụng bot!\n%2\n%1\n\nLiên hệ Admin để biết thêm chi tiết :\nhttps://www.facebook.com/profile.php?id=100072642465193
 handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị Admin cấm sử dụng bot!\n%2\n%1\n\nLiên hệ Admin để biết thêm chi tiết :\nhttps://www.facebook.com/profile.php?id=100072642465193
 handleCommand.commandNotExist=( \_/)\n( •_•)\n// >🧠  nè lắp vào rồi hãy sài bot nha con gà 😏, Có phải là lệnh "%1" hay không.
 handleCommand.commandThreadBanned=Nhóm bạn đã bị cấm sử dụng lệnh "%1"\n\nLiên hệ Admin để biết thêm chi tiết.\nhttps://www.facebook.com/profile.php?id=100072642465193

@@ -128,5 +128,8 @@
     },
     "log": {
         "enable": true
+    },
+    "simvoice": {
+        "APIKEY": "Meew_iy8Pjt6Iyt70zwtGbUg2H1jVlvOMvx"
     }
 }
